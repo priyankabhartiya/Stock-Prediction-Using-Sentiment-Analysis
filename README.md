@@ -47,10 +47,14 @@ Locate python.exe in your machine.
 
 Once you locate the python.exe path, you need to write whole path of it and then entire path of project folder with prediction.py at the end. For example if your python.exe is located at c:/Python36/python.exe and project folder is at c:/users/user_name/desktop/Stock_Price_Forecasting_using_Sentiment_Analysis/, then your command to run program will be as below:
 
-`C:/Python37/python.exe C:/users/user_name/desktop/Stock_Price_Forecasting_using_Sentiment_Analysis/ml_models_Reddit`
+```
+C:/Python37/python.exe C:/users/user_name/desktop/Stock_Price_Forecasting_using_Sentiment_Analysis/ml_models_Reddit
+```
 
 or
 
-`C:/Python37/python.exe C:/users/user_name/desktop/Stock_Price_Forecasting_using_Sentiment_Analysis/ml_models_DJIA`
+```
+C:/Python37/python.exe C:/users/user_name/desktop/Stock_Price_Forecasting_using_Sentiment_Analysis/ml_models_DJIA
+```
 
 ### Sentiment Analysis will take few minutes to execute, so all in all programs for both dataset will take few minutes for excution and once the execution is complete final error matrix will be promted on the screen as a final result.
